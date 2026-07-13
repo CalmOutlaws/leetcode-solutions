@@ -8,3 +8,15 @@ A collection of my accepted LeetCode solutions, updated automatically. This repo
 
 ##  Repository Structure
 Problems are organized by difficulty level and problem names, containing the code solution and notes where applicable.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+<!---LeetCode Topics End-->
