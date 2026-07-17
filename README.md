@@ -15,6 +15,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -26,6 +27,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
