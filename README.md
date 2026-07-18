@@ -14,6 +14,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -37,4 +38,12 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
