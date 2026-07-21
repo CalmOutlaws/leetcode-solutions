@@ -53,4 +53,20 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
