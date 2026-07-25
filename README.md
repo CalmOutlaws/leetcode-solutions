@@ -14,6 +14,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -74,4 +75,12 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
