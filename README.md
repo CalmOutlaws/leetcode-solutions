@@ -20,6 +20,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0643-maximum-average-subarray-i](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1046-last-stone-weight](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -111,4 +112,8 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0450-delete-node-in-a-bst](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
