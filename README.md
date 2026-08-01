@@ -101,6 +101,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,5 +122,10 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
