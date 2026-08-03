@@ -102,6 +102,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -124,15 +125,21 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
