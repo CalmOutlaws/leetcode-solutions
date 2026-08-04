@@ -23,6 +23,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0997-find-the-town-judge](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1920-build-array-from-permutation](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -128,6 +129,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,4 +144,21 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
