@@ -104,6 +104,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0094-binary-tree-inorder-traversal](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0207-course-schedule](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Binary Tree
 |  |
@@ -121,12 +122,14 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1046-last-stone-weight) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -135,6 +138,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | ------- |
 | [0207-course-schedule](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Topological Sort
 |  |
@@ -161,4 +165,12 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
