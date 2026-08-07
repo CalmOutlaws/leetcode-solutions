@@ -62,10 +62,12 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -74,6 +76,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
