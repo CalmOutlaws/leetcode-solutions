@@ -19,6 +19,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0198-house-robber](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0416-partition-equal-subset-sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -72,6 +73,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0070-climbing-stairs](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -180,4 +182,12 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
