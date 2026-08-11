@@ -75,6 +75,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0213-house-robber-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0344-reverse-string) |
+| [1143-longest-common-subsequence](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,4 +192,8 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
