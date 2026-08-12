@@ -71,6 +71,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -88,6 +89,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0344-reverse-string](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1143-longest-common-subsequence](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
