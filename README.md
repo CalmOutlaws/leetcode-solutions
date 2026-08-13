@@ -14,6 +14,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0198-house-robber) |
@@ -70,6 +71,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0198-house-robber) |
@@ -198,4 +200,8 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
