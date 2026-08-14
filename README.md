@@ -14,6 +14,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,10 +49,12 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Binary Search
