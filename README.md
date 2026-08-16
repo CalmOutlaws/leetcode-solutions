@@ -16,6 +16,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | ------- |
 | [0015-3sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0198-house-robber) |
@@ -51,6 +52,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -213,4 +215,8 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
