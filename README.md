@@ -15,6 +15,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -78,6 +79,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -224,5 +226,6 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
