@@ -31,6 +31,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0739-daily-temperatures](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -69,6 +70,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
