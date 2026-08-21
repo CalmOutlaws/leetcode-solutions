@@ -15,6 +15,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0015-3sum](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0055-jump-game) |
@@ -67,6 +68,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
