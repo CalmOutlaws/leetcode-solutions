@@ -101,6 +101,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -241,6 +242,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
