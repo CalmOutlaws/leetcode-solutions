@@ -21,6 +21,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 | [0055-jump-game](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -126,6 +127,7 @@ Problems are organized by difficulty level and problem names, containing the cod
 |  |
 | ------- |
 | [0078-subsets](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/CalmOutlaws/leetcode-solutions/tree/master/0136-single-number) |
 ## Stack
 |  |
 | ------- |
